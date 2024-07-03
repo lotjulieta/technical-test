@@ -1,0 +1,110 @@
+[
+    {
+        "latitude": 35.7,
+        "longitude": 139.6875,
+        "generationtime_ms": 0.03802776336669922,
+        "utc_offset_seconds": 0,
+        "timezone": "GMT",
+        "timezone_abbreviation": "GMT",
+        "elevation": 40.0,
+        "current_weather_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature": "\u00b0C",
+            "windspeed": "km/h",
+            "winddirection": "\u00b0",
+            "is_day": "",
+            "weathercode": "wmo code"
+        },
+        "current_weather": {
+            "time": "2024-07-03T00:00",
+            "interval": 900,
+            "temperature": 25.9,
+            "windspeed": 1.9,
+            "winddirection": 22,
+            "is_day": 1,
+            "weathercode": 1
+        }
+    },
+    {
+        "latitude": 35.7,
+        "longitude": 139.6875,
+        "generationtime_ms": 0.03898143768310547,
+        "utc_offset_seconds": 0,
+        "timezone": "GMT",
+        "timezone_abbreviation": "GMT",
+        "elevation": 40.0,
+        "current_weather_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature": "\u00b0C",
+            "windspeed": "km/h",
+            "winddirection": "\u00b0",
+            "is_day": "",
+            "weathercode": "wmo code"
+        },
+        "current_weather": {
+            "time": "2024-07-03T00:00",
+            "interval": 900,
+            "temperature": 25.9,
+            "windspeed": 1.9,
+            "winddirection": 22,
+            "is_day": 1,
+            "weathercode": 1
+        }
+    },
+    {
+        "latitude": 35.7,
+        "longitude": 139.6875,
+        "generationtime_ms": 0.03790855407714844,
+        "utc_offset_seconds": 0,
+        "timezone": "GMT",
+        "timezone_abbreviation": "GMT",
+        "elevation": 40.0,
+        "current_weather_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature": "\u00b0C",
+            "windspeed": "km/h",
+            "winddirection": "\u00b0",
+            "is_day": "",
+            "weathercode": "wmo code"
+        },
+        "current_weather": {
+            "time": "2024-07-03T00:00",
+            "interval": 900,
+            "temperature": 25.9,
+            "windspeed": 1.9,
+            "winddirection": 22,
+            "is_day": 1,
+            "weathercode": 1
+        }
+    },
+    {
+        "latitude": 35.7,
+        "longitude": 139.6875,
+        "generationtime_ms": 0.048995018005371094,
+        "utc_offset_seconds": 0,
+        "timezone": "GMT",
+        "timezone_abbreviation": "GMT",
+        "elevation": 40.0,
+        "current_weather_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature": "\u00b0C",
+            "windspeed": "km/h",
+            "winddirection": "\u00b0",
+            "is_day": "",
+            "weathercode": "wmo code"
+        },
+        "current_weather": {
+            "time": "2024-07-03T00:00",
+            "interval": 900,
+            "temperature": 25.9,
+            "windspeed": 1.9,
+            "winddirection": 22,
+            "is_day": 1,
+            "weathercode": 1
+        }
+    }
+]

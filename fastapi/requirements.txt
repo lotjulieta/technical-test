@@ -1,0 +1,7 @@
+sqlalchemy==1.4.31
+fastapi
+uvicorn
+alembic
+psycopg2
+asyncpg
+pydantic
